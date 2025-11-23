@@ -17,7 +17,7 @@ I architect and ship **AI-driven systems** for game operations and internal tool
 
 ### 🚀 Current Focus Areas
 
-- **GenAI Platform Engineering**: Integrating LLMs into game ops—automation, analytics, intelligent content generation
+- **GenAI Platform Engineering**: Integrating GenAI into game ops—automation, analytics, intelligent content generation
 - **Full-Stack AI Solutions**: End-to-end systems connecting model pipelines → APIs → interactive UIs
 - **Production ML**: Building scalable, production-ready AI applications with proper guardrails and observability
 - **Technical Leadership**: Mentoring engineers, defining AI strategy, ensuring seamless deployment in live environments
