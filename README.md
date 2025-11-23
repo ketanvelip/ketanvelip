@@ -13,7 +13,7 @@
 
 I architect and ship **AI-driven systems** for game operations and internal tooling, working on gaming platforms that serve millions of players worldwide.
 
-**My sweet spot:** Bridging cutting-edge AI with practical production systems—from LLM integrations and GenAI pipelines to scalable APIs and intuitive web interfaces.
+**My sweet spot:** Bridging cutting-edge AI with practical production systems, from LLM integrations and GenAI pipelines to scalable APIs and intuitive web interfaces.
 
 ### 🚀 Current Focus Areas
 
