@@ -4,7 +4,7 @@
   <h3>Sr. AI Software Engineer</h3>
   <p>Building production AI systems that power next-gen game operations</p>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketanvelip)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketan-velip)
 </div>
 
 ---
@@ -88,7 +88,7 @@ I architect and ship **AI-driven systems** for game operations and internal tool
 
 Building something cool with **AI for games**? Working on **GenAI applications**? Let's talk!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketanvelip)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketan-velip)
 
 ---
 
