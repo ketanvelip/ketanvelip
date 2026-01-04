@@ -68,8 +68,8 @@ I architect and ship **AI-driven systems** for game operations and internal tool
 |--------------|-------------|------|
 | 🎯 **Executive PG in AI & Machine Learning** | IIT Roorkee | 2025 |
 | 🧠 **Fundamentals of Deep Learning** | NVIDIA | 2024 |
-| ☁️ **AWS Solutions Architect Associate** | AWS | 2021 |
-| ☁️ **AWS Cloud Practitioner** | AWS | 2021 |
+| ☁️ **AWS Solutions Architect Associate** | Udemy | 2021 |
+| ☁️ **AWS Cloud Practitioner** | Udemy | 2021 |
 
 </div>
 
