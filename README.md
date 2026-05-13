@@ -28,7 +28,7 @@
 │   MODELS    anthropic · openai · gemini          │
 │   RUNTIME   bedrock · vertex ai · ollama         │
 │             together.ai · fireworks.ai           │
-│             openrouter                           │
+│             openrouter.ai                        │
 │   AI DEV    langchain · langgraph · mcp          │
 │             llamaindex · rag · agents            │
 │   LANG      python · typescript · php            │
