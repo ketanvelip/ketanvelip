@@ -1,54 +1,57 @@
-```sh
-$ whoami
-ketan velip — lead ai engineer
-
-$ cat focus.txt
-i architect and ship genai systems for
-game operations on platforms played by
-millions. model → api → ui, end to end.
-
-current:
-  - genai platform engineering
-    (game ops automation, analytics,
-     intelligent content generation)
-  - full-stack ai: pipelines → apis → uis
-  - production ml with guardrails
-    and observability
-  - technical leadership & mentoring
-
-$ ls stack/
-ai-ml/      python  langchain  openai
-            stable-diffusion  tensorflow
-backend/    fastapi  node.js  php
-            rest  websockets
-frontend/   react  typescript
-            javascript  angularjs
-cloud/      aws  gcp  docker  linux
-data/       mysql  mongodb
-            bigquery  firestore
-
-$ cat credentials.txt
-2025  exec pg, ai & ml       iit roorkee
-2024  fundamentals of        nvidia
-      deep learning
-2021  aws solutions          udemy
-      architect associate
-2021  aws cloud              udemy
-      practitioner
-
-$ cat ~/.offline
-motorcycles   weekend tours,
-              curvy mountain roads
-football      regular player,
-              follow the major leagues
-gaming        strategy, action,
-              and how ai changes both
-learning      deep diving into ai,
-              especially for games
-
-$ contact --link
-building something with ai for games?
-working on genai? let's talk.
-
-https://www.linkedin.com/in/ketan-velip
 ```
+╭──────────────────────────────────────────────────╮
+│                                                  │
+│   ▌ KETAN VELIP                                  │
+│   ▌ Lead AI Engineer                             │
+│                                                  │
+├──────────────────────────────────────────────────┤
+│                                                  │
+│   CLASS    Lead AI Engineer                      │
+│   REALM    GenAI · Games · Production            │
+│                                                  │
+│  ────── STATS ─────────────────────────────────  │
+│                                                  │
+│   Full-stack     ■■■■■■■■■□                      │
+│   GenAI          ■■■■■■■■□□                      │
+│   Prod Systems   ■■■■■■■■□□                      │
+│   Leadership     ■■■■■■■□□□                      │
+│                                                  │
+│  ────── ABILITIES ─────────────────────────────  │
+│                                                  │
+│   ▸ summon LLM pipelines                         │
+│   ▸ bind production guardrails                   │
+│   ▸ architect model → API → UI                   │
+│   ▸ mentor party, define AI strategy             │
+│                                                  │
+│  ────── INVENTORY ─────────────────────────────  │
+│                                                  │
+│   MODELS    anthropic · openai · gemini          │
+│   RUNTIME   bedrock · vertex ai · ollama         │
+│             together.ai · fireworks.ai           │
+│             openrouter                           │
+│   AI DEV    langchain · langgraph · mcp          │
+│             llamaindex · rag · agents            │
+│   LANG      python · typescript · php            │
+│   API       fastapi · node · rest · ws           │
+│   WEB       react · typescript · angular         │
+│   CLOUD     aws · gcp · docker · linux           │
+│   DATA      mysql · mongo · bigquery             │
+│                                                  │
+│  ────── ACHIEVEMENTS ──────────────────────────  │
+│                                                  │
+│   ★ 2025  Exec PG, AI/ML    IIT Roorkee          │
+│   ★ 2024  Deep Learning     NVIDIA               │
+│   ★ 2021  AWS SA Associate  Udemy                │
+│   ★ 2021  AWS Cloud Pract.  Udemy                │
+│                                                  │
+│  ────── SIDE QUESTS ───────────────────────────  │
+│                                                  │
+│   ▸ motorcycle tours, mountain roads             │
+│   ▸ football — player & fan                      │
+│   ▸ gaming across genres                         │
+│   ▸ always learning frontier AI                  │
+│                                                  │
+╰──────────────────────────────────────────────────╯
+```
+
+→ [linkedin.com/in/ketan-velip](https://www.linkedin.com/in/ketan-velip)
