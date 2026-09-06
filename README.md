@@ -6,14 +6,15 @@
 │                                                              │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│   STATS                       ABILITIES                      │
-│   ─────                       ─────────                      │
+│   I build generative-AI systems for games — LLM pipelines,   │
+│   agent orchestration, and the evals and observability       │
+│   that keep them honest in production.                       │
 │                                                              │
-│   Full-stack   ■■■■■■■■■□     ▸ summon LLM pipelines         │
-│   GenAI        ■■■■■■■■□□     ▸ ship AI at scale             │
-│   Prod Sys     ■■■■■■■■□□     ▸ agent orchestration          │
-│   Leadership   ■■■■■■■□□□     ▸ evals & observability        │
-│   Research     ■■■■■■■□□□     ▸ mentorship & AI strategy     │
+│  ────── ABILITIES ─────────────────────────────────────────  │
+│                                                              │
+│   ▸ LLM pipelines & RAG       ▸ evals & observability        │
+│   ▸ agent orchestration       ▸ shipping AI at scale         │
+│   ▸ production systems        ▸ mentorship & strategy        │
 │                                                              │
 │  ────── INVENTORY ─────────────────────────────────────────  │
 │                                                              │
@@ -31,9 +32,10 @@
 │   fireworks.ai                aws · gcp · docker             │
 │   openrouter.ai               mysql · mongo · bigquery       │
 │                                                              │
+│  ────── RECORD ────────────────────────────────────────────  │
+│                                                              │
 │   ACHIEVEMENTS                SIDE QUESTS                    │
 │   ────────────                ───────────                    │
-│                                                              │
 │   ★ 2025  IIT Roorkee         ▸ motorcycle tours             │
 │           Exec PG AI/ML       ▸ football — player & fan      │
 │   ★ 2024  NVIDIA DL           ▸ gaming across genres         │
